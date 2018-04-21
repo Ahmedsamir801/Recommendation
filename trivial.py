@@ -8,7 +8,7 @@ Created on Wed Apr 18 14:27:56 2018
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr 14 09:39:37 2018
-
+#my first trial
 @author: nb
 """
 
